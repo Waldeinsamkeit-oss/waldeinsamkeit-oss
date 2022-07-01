@@ -9,3 +9,12 @@ A question naturally emerge: how can we describe this adaptation-decay mathemati
 Mathematically speaking, synchronization refers to any stability around characteristic solutions: steady states or temporally periodic solutions.
 
 Although there may be the chance that discharging only depends on the last spike, but previous spikes's effect may accumulate to a significant scale, indicating population temporal average as a useful statistic.
+
+## July 2022
+### Relations between the statistics of natural images and the response properties of cortical cells
+A central problem in neural transmission is that how does the network reduce redundancy? Like Barlow suggests that the purpose of natural image processing is "to represent visual scenes by activity of a sparse selection of reliable and nonredundant (i.e., independent) elements.". This paper talks about how neurons perform temporal/spatial local fourier transform/frequency-selection/Gabor filtering and reduce the order of redundancy in early visual processing.
+
+Notice that n-order redundancy refers to the non-uniformness of the conditional probability given a pair of n-elements. An interesting example is that, consider a 2-D graph with lines of different orientations from an unknown point, there is a significant second-order redundancy: given two pixels' intensity, we can determine the line's intensity through the two points (second-order conditional probability). The task will be use certain decorrelation to reduce this redundancy and reduce 2-D to 1-D.
+
+Here is how Gabor filtering (locally concentrating, spatial or spatial-temporal, fourier transform) works and reduce redundancy. This is also a strong evidence for decorrelation of neural signals.
+
