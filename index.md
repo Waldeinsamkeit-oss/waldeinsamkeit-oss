@@ -18,3 +18,6 @@ Notice that n-order redundancy refers to the non-uniformness of the conditional 
 
 Here is how Gabor filtering (locally concentrating, spatial or spatial-temporal, fourier transform) works and reduce redundancy. This is also a strong evidence for decorrelation of neural signals.
 
+### Decorrelation and efficient coding by retinal ganglion cells
+Many biologists proposed that neural network uses filtering to reduce redundancy and maximize information transmission. This paper especially discussed spatio-temporal decorrelation, and proposed that the main mechanism to decorrelate is the nonlinearity: antagonistic center and surround regions. By statistical analysis, the authors showed that after convolution of spatio-temporal receptive field and natural stimulus, the correlation are reduced below the correlation in natural stimulus.
+
