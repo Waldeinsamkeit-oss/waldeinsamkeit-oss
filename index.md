@@ -10,6 +10,9 @@ Under the supervision of Benoit Perthame (Sorbonne University, Laboratoire J.-L.
 
 Both research experiences are in collaboration with Xu'an Dou(Peking University).
 
+# Expository Writings
+### [On Jean Bourgain's Averages in the Plane over Convex Curves and Maximal Operators](https://github.com/Waldeinsamkeit-oss/waldeinsamkeit-oss/blob/main/Averages_in_the_plane_over_convex_curves_and_maximal_operators.pdf)
+
 # Preprints
 The two preprints of the researchs above are in preparation.
 
